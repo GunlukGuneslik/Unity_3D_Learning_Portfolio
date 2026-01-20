@@ -7,6 +7,7 @@ My Unity 3D learning projects.
   - Start Button icon from www.flaticon.com (made by Freepik)
 
 ## Game 2: 🔴 Maze Ball
+**Click the image to watch gameplay video**
 
 <a href="https://github.com/user-attachments/assets/da2772c5-58ad-4214-b1a4-cd14f7c10378">
   <img src="https://github.com/user-attachments/assets/c1f8af6e-f1b9-488f-986c-8068b0c4fd97" width="450" />
