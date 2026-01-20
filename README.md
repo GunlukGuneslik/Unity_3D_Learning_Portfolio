@@ -1,18 +1,16 @@
 # Unity_3D_Learning_Portfolio
 My Unity 3D learning projects.
 
-Attributions:
+## Game 1: 🏃‍➡️ Infinite Run
 
-Infinite Run
-
-Art Assets:
+  ### 🖼️ Art Assets:
   - Start Button icon from www.flaticon.com (made by Freepik)
 
-Basic Soccer
+## Game 2: ⚽ Basic Soccer
 
-Art Assets:
+  ### 🖼️ Art Assets:
   - Grass texture is provided from www.freepik.com in image formate
     
-Sound Effects:
+  ### 🔊 Sound Effects:
   - Ball kick dound is from Pixabay (made by freesound_community)
   - Win sound is from Pixabay (made by u_ss015dykrt)
