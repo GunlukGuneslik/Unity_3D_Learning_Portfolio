@@ -19,6 +19,11 @@ My Unity 3D learning projects.
 </a>
 
 ## Game 3: Coin Collector
+**Click the image to watch gameplay video**
+
+<a href="https://github.com/user-attachments/assets/241287ad-09e4-4af6-a628-0caf9fd033e7">
+  <img src="https://github.com/user-attachments/assets/2379081c-ac53-4e04-90ef-a026e8107e16" width="450" />
+</a>
 
 ## Game 4: ⚽ Basic Soccer
 
