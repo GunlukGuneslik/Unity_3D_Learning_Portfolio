@@ -2,6 +2,11 @@
 My Unity 3D learning projects.
 
 ## Game 1: 🏃‍➡️ Infinite Run
+**Click the image to watch gameplay video**
+
+<a href="https://github.com/user-attachments/assets/57b54dd1-33a8-4dca-9613-b97b2035ae39">
+  <img src="https://github.com/user-attachments/assets/47521c08-958a-44ce-ad92-2182879df85e" width="150" />
+</a>
 
   ### 🖼️ Art Assets:
   - Start Button icon from www.flaticon.com (made by Freepik)
